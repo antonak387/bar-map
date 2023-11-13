@@ -1,5 +1,13 @@
 /* required styles */
 
+td{
+	padding: 0px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 12px;
+	display: flex;
+	justify-content: center;
+}
+
 .leaflet-pane,
 .leaflet-tile,
 .leaflet-marker-icon,

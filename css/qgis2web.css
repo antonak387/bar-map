@@ -20,11 +20,11 @@
         }
         .leaflet-container {
             background: #fff;
-            padding-right: 10px;
         }
         .leaflet-popup-content {
             width:auto;
-            padding-right:10px;
+            display: flex;
+            justify-content: center;
         }
         .leaflet-tooltip {
             background: none;
